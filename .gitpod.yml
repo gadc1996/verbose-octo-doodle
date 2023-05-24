@@ -9,3 +9,4 @@ image:
 tasks:
   - init: |
       go get .
+      go run .
